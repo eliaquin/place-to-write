@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.textArea {
+  width: 100%;
+  border: 1px solid lightblue;
+  border-radius: 4px;
+  height: 98vh;
+  font-size: large;
+}
